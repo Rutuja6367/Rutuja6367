@@ -16,7 +16,7 @@ As a **Web Developer**, my goal is to deliver exceptional user experiences and s
 - **CI/CD**: AWS services, IaC through Pulumi, GitHub Actions, Shell scripting
 - **Design Skills**: System Design, API Design, Microservices Architecture, Event-Driven Architecture
 - **Certifications**: Microsoft Certified: Azure Fundamentals
-- 
+  
 
 ---
 
