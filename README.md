@@ -1,16 +1,15 @@
-## Hi there 👋
 
-<!--
-**Rutuja6367/Rutuja6367** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Turning Pixels into Powerful Web Experiences!
 
-Here are some ideas to get you started:
+As a Web Developer, my goal is to deliver exceptional user experiences and scalable solutions. Whether crafting pixel-perfect interfaces with React and JavaScript or conducting UX research to inform design improvements, I am dedicated to creating intuitive and user-friendly applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨ My expertise includes:
+
+Languages: Java, Python, JavaScript, HTML5, Sass CSS3, C/C++, SQL, PostgreSQL
+Frameworks: React.js, Redux, Node.js, Spring Boot, jQuery
+Tools: Visual Studio, GitHub, Postman, Jira, Packer, JSON, XML, GIT, Figma, MongoDB
+CI/CD: AWS services, IaC through Pulumi, GitHub Actions, Shell scripting
+Certifications: Microsoft Certified: Azure Fundamentals
+Design Skills: Responsive Design, UI/UX Design, Interaction Design
+
+Let’s connect and create innovative solutions together!
