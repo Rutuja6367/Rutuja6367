@@ -11,11 +11,12 @@ As a **Web Developer**, my goal is to deliver exceptional user experiences and s
 ## ✨ My expertise includes:
 
 - **Languages**: Java, Python, JavaScript, HTML5, Sass, CSS3, C/C++, SQL, PostgreSQL
-- **Frameworks**: React.js, Redux, Node.js, Spring Boot, jQuery
-- **Tools**: Visual Studio, GitHub, Postman, Jira, Packer, JSON, XML, GIT, Figma, MongoDB
+- **Frameworks**:  Spring Boot, Hibernate, Apache Kafka, React.js, Redux, Node.js, jQuery
+- **Tools & Databases**: PostgreSQL, MySQL, MongoDB, Docker, Kubernetes, Git, Jenkins, Maven, Gradle 
 - **CI/CD**: AWS services, IaC through Pulumi, GitHub Actions, Shell scripting
+- **Design Skills**: System Design, API Design, Microservices Architecture, Event-Driven Architecture
 - **Certifications**: Microsoft Certified: Azure Fundamentals
-- **Design Skills**: Responsive Design, UI/UX Design, Interaction Design
+- 
 
 ---
 
