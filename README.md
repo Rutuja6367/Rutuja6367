@@ -5,6 +5,9 @@ I'm a passionate **Software Developer** with experience as an **JAVA Developer a
 ---
 
 ## 🔧 **Technologies & Tools**
+ 📊 GitHub Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rutuja6367&layout=compact&theme=radical)
 
 ### **Languages**
 - Java, Python, JavaScript (ES6+), TypeScript, HTML5, Sass, CSS3, C, C++, SQL, PostgreSQL
@@ -35,11 +38,7 @@ I'm a passionate **Software Developer** with experience as an **JAVA Developer a
 
 ---
 
-## 📊 GitHub Stats
 
-![Rutuja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rutuja6367&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rutuja6367$&layout=compact&theme=radical)
 
 
 Let’s connect and create innovative solutions together!
